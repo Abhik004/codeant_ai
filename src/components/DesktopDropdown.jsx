@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Dropdown = () => {
+const DesktopDropdown = () => {
   const displayName = 'UtkarshDhariyaPanwar';
   const truncatedName = `${displayName.slice(0, 15)}...`;
 
@@ -25,4 +25,4 @@ const Dropdown = () => {
   );
 };
 
-export default Dropdown;
+export default DesktopDropdown;

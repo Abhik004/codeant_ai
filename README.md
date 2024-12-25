@@ -1,8 +1,22 @@
-# React + Vite
+# Frontend Developer Intern Hiring Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a part of the **Frontend Developer Intern Hiring Assignment** by **CodeAnt AI**.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The application includes two main pages:
+1. **Repositories Page** - Displays repositories (details can be added further as needed).
+2. **Signup Page** - A user interface for signing up or signing in.
+
+### Routes
+- To visit the **Signup Page**, navigate to:  
+  `/signup`
+
+## Tech Stack Used
+
+The project uses the following technologies and tools:
+- **React.js**: JavaScript library for building the user interface.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **React Icons**: For including vector icons in the components.
+- **Flaticon & Other Icon Libraries**: Used for additional icons on the buttons.
+- **Images**: Includes PNG assets such as `sidebarnavigation.png` and `frame9.png`.
