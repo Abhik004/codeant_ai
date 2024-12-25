@@ -5,7 +5,7 @@ This project is a part of the **Frontend Developer Intern Hiring Assignment** by
 ## Project Overview
 
 The application includes two main pages:
-1. **Repositories Page** - Displays repositories (details can be added further as needed).
+1. **Repositories Page** - Displays repositories.
 2. **Signup Page** - A user interface for signing up or signing in.
 
 ### Routes
