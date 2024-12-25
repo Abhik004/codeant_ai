@@ -8,6 +8,12 @@ The application includes two main pages:
 1. **Repositories Page** - Displays repositories.
 2. **Signup Page** - A user interface for signing up or signing in.
 
+## Live Demo
+
+The website can be viewed at:
+[https://codeant-ai-gamma.vercel.app/](https://codeant-ai-gamma.vercel.app/)
+(type /signup to go to the signup page)
+
 ### Routes
 - To visit the **Signup Page**, navigate to:  
   `/signup`
